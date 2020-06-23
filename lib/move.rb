@@ -13,7 +13,7 @@ end
 #5. Accept user input via gets.
 #6. Use user input in a method.
 
-def input_to_index
+def input_to_index(user_input)
   
 end
 
