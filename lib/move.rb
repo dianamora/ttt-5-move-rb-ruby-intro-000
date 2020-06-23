@@ -14,7 +14,7 @@ end
 #6. Use user input in a method.
 
 def input_to_index(user_input)
-  
+  new_user_input = new_user_input.to.i
   
 end
 
