@@ -11,4 +11,5 @@ puts "Where would you like to go?"
 
 input = gets.strip
 
-input = input_to_index
+index = input_to_index
+
